@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saboor Ahmed
 - 🤠 I'm an Electrical Engineer from IST
-- 👀 I’m interested in Robotics and Machine Learning
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Python Developer and Machine Learning Engineer role
+- 🌱 I’m currently learning Django, a web frame work in Python
 - 💞️ I’m looking to collaborate on Python and Machine Learning projects
 
 <!---
